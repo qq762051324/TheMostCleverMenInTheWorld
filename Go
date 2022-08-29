@@ -1,2 +1,4 @@
 Go语言入门
 https://zhuanlan.zhihu.com/p/304544146
+
+1.读Go语言核心编程
