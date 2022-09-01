@@ -1,6 +1,7 @@
 Go语言入门
 https://zhuanlan.zhihu.com/p/304544146
 开源项目
+https://github.com/shockerli/go-awesome
 https://github.com/go-shiori/shiori
 1.读Go语言核心编程
 2.go web编程 https://blog.csdn.net/tenorange/article/details/96172365
